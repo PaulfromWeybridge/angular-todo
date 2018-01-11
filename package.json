@@ -1,0 +1,20 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "angular JS",
+  "main": "C drive",
+  "scripts": {
+    "test": "check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "minorca"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "123"
+  ],
+  "author": "paulfromweybridge",
+  "license": "ISC"
+}

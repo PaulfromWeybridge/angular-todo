@@ -1,0 +1,26 @@
+{
+  "name": "angular-todo",
+  "description": "angular JS",
+  "main": "bower install bootstrap --save",
+  "authors": [
+    "paulfromweybridge"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test",
+    "testing",
+    "123"
+  ],
+  "homepage": "https://github.com/PaulfromWeybridge/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8"
+  }
+}
